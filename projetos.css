@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+header img{
+    width: 700px;
+    height: 650px;
+    border-radius: 50px;
+}
+.center{
+    text-align: center;
+}
+nav a:hover{
+    color: green;
+}
+.container{
+    padding: 1px 50px;
+}
